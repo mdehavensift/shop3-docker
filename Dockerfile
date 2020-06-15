@@ -1,4 +1,4 @@
-FROM mdehavensift/shop3:latest
+FROM rigetti/lisp:2020-02-18
 
 RUN cd ~ && \
     mkdir common-lisp && \
